@@ -1,3 +1,3 @@
 def greet(name):
-    message = f"HELLO {name.upper()}"
+    message = f"Hello {name}"
     return message
